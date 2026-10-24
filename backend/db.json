@@ -1,0 +1,13 @@
+{
+  "clientes": [
+    {
+      "cpf": "12345678910",
+      "nome": "papaizao",
+      "sobrenome": "da silva",
+      "dataNascimento": "2007-03-11",
+      "email": "admina@email.com",
+      "senha": "papai",
+      "id": 1
+    }
+  ]
+}
